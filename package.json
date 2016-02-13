@@ -2,8 +2,7 @@
   "name": "soundcloud-tests",
   "scripts": {
     "test": "./test/run.js"
-  },
-  
+  },  
   "dependencies": {
     "chai": "~3.4.1",
     "deepmerge": "~0.2.7",
